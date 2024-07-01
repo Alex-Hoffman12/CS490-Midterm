@@ -1,0 +1,14 @@
+.pro-image {
+  height: 250px;
+  border-radius: 20px;
+  margin-right: 25px;
+}
+
+.bio {
+  display: flex;
+  align-items: center;
+}
+
+.title-margin {
+  margin-bottom: 15px;
+}
