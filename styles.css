@@ -12,3 +12,17 @@
 .title-margin {
   margin-bottom: 15px;
 }
+
+.card-wrapper {
+  width: 300px;
+}
+
+.skills-wrapper {
+  display: inline-flex;
+}
+
+.center-wrapper {
+  width: 100%;
+  display: flex;
+  align-content: center;
+}
